@@ -24,6 +24,8 @@ Main_menu :
 
 - E : Exit the program
 
+The "quit" button will eventually... quit the program.
+
 Settings :
 
 - W : Set the screen resolution to 1600 * 800
@@ -35,5 +37,5 @@ Level_1 :
 - A : Return back to the menu
 - E : Exit the program
 
-
-The "quit" button will eventually... quit the program.
+You can move the emoji and click on it to "bonk" it in the level_1 scene.
+Please take care of him and don't bonk him too much.
