@@ -38,4 +38,5 @@ Level_1 :
 - E : Exit the program
 
 You can move the emoji and click on it to "bonk" it in the level_1 scene.
+
 Please take care of him and don't bonk him too much.
